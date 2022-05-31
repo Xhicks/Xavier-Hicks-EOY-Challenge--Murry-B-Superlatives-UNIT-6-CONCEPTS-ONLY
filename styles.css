@@ -1,0 +1,49 @@
+h1 {
+    text-align: center;
+   font-family: 'Courgette', cursive;
+}
+
+.goodbye-note {
+    border: 2px solid #000;
+    border-radius: 30px;
+    padding: 10px;
+    background-color:yellow;
+    font-size:40px;
+    font-family: 'Courgette', cursive;
+    display:none;
+}
+
+.directions-container {
+    border: 2px solid #000;
+    border-radius: 30px;
+    padding: 10px;
+    margin: 5px;
+    background-color:yellow;
+ font-family: 'Pacifico', cursive;
+    
+    font-size:16px;
+}
+
+.notes-ticker {
+    display: flex;
+    justify-content: flex-end;
+}
+
+body{
+    background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRAooO04zbnuB3j8CZHcPFBRatueBj-foduXQ&usqp=CAU");
+    background-repeat: no-repeat;
+    background-size:cover;
+}
+
+h2{
+    font-family: 'Courgette', cursive;
+    color:white;
+}
+
+button{
+   font-family: 'Courgette', cursive;
+    display: block;
+  margin-left: auto;
+  margin-right: auto;
+    font-size:18px;
+}
